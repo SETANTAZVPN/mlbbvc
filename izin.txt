@@ -1,1 +1,1 @@
-TesDrive 172.104.34.24 LIFETIME
+TesDrive 172.104.34.24 lifetime
