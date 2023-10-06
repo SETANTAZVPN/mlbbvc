@@ -252,10 +252,10 @@ cd /usr/bin
 rm -fr menu
 rm -fr /usr/sbin/menu
 rm -fr /usr/local/bin/menu
-wget https://raw.githubusercontent.com/SETANTAZVPN/mlbb/main/menu.zip
-unzip menu.zip
+wget https://raw.githubusercontent.com/SETANTAZVPN/mlbb/main/menux.zip
+unzip menux.zip
 chmod +x *
-rm -fr menu.zip
+rm -fr menux.zip
 #######service
 cd /etc/systemd/system
 wget https://raw.githubusercontent.com/SETANTAZVPN/mlbb/main/service.zip
